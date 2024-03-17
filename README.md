@@ -1,3 +1,15 @@
+![3](https://github.com/sadasrkgithub18/movies_frontend/assets/70085217/d6c8ee27-bb7c-45d4-b74c-b4132693f504)
+
+
+
+
+
+![4](https://github.com/sadasrkgithub18/movies_frontend/assets/70085217/50f03443-446c-4d98-b314-11217455afb4)
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
